@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* This file is for your main application CSS */
+.random-btn {
+  background-color: #07032e;
+  color: white;
+  border-radius: 50px;
+  padding: 2px 16px 2px 16px;
+}
